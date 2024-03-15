@@ -1,6 +1,6 @@
 # Netflix-Recommendation-System
 
-###Goal:
+### Goal:
 - The goal is to recommend Netflix movies based on their genres.
 - The system allows users to input a movie title and receive recommendations of similar movies.
 
