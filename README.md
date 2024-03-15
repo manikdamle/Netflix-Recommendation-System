@@ -1,8 +1,9 @@
 # Netflix-Recommendation-System
-The project utilizes a combination of data preprocessing techniques, feature extraction methods, and machine learning algorithms to build a content-based recommendation system for Netflix movies. The interactive web interface is developed using Streamlit to enhance user experience and accessibility.
 
 - The goal is to recommend Netflix movies based on their genres.
 - The system allows users to input a movie title and receive recommendations of similar movies.
+
+The project utilizes a combination of data preprocessing techniques, feature extraction methods, and machine learning algorithms to build a content-based recommendation system for Netflix movies. The interactive web interface is developed using Streamlit to enhance user experience and accessibility.
 
 - The dataset containing movie titles, descriptions, content types, and genres is loaded and preprocessed.
 - Text data (genres) is transformed into numerical form using TF-IDF vectors.
